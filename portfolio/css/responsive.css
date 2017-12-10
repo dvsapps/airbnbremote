@@ -1,0 +1,159 @@
+@media only screen and (min-width: 1169px) {
+    .container {
+        padding: 0;
+    }
+
+}
+@media only screen and (max-width: 1024px) {
+
+.profile-img-1 {
+    width: auto;
+    height: auto;
+}
+.tt-contact-info {
+    padding-left: 0;
+    float: left;
+    width: 70%;
+}
+.timeline-v2 > li .cbp_tmicon {
+    top: 6px;
+    left: 20.2%;
+    }
+
+    }
+@media only screen and (max-width: 992px) {
+
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+
+#profile-intro h1.name {
+    font-size: 50px;
+}
+#profile-intro h3.status {
+    font-size: 24px;
+    text-align: left;
+}
+.timeline-v2 > li .cbp_tmtime span:first-child {
+    color: #000;
+    font-size: 15px;
+}
+.timeline-v2 > li .cbp_tmicon {
+    top: 6px;
+    left: 19.7%;
+}
+.timeline-v2 > li .cbp_tmtime {
+    width: 25%;
+    display: block;
+    position: absolute;
+    padding-right: 0px;
+}
+.tt-contact-info {
+    padding-left: 0;
+    float: left;
+    width: 70%;
+}
+}
+
+@media only screen and (min-width: 320px) and (max-width: 736px) {
+
+.wrapper{
+    padding-bottom: 0px;
+}
+.mr-btm-sm{
+    margin-bottom: 30px;
+}
+.profile-list span.cont {
+    display: block;
+    margin-left: 120px !important;
+}
+.cv-button {
+    display: inline-block;
+    width: 15.5vmin !important;
+    height: 15.5vmin !important;
+    box-sizing: border-box;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    padding-top: 0;
+    font-size: 14px !important;
+    background-color: #5c5edc;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    text-align: center;
+    outline: none;
+    margin: 0 auto auto 0% !important;
+    line-height: 60px !important;
+    animation-name: appearance;
+    animation-duration: 0.4s;
+    animation-delay: 0.3s;
+    animation-fill-mode: forwards;
+}
+#profile-intro h1.name {
+    font-size: 40px !important;
+}
+#profile-intro h3.status {
+    width: auto !important;
+    text-align: left !important;
+    font-size: 24px;
+}
+.profile-img{
+    display: none;
+}
+.title-heading {
+    float: left;
+    margin-bottom: 0px;
+}
+#education .panel{
+    padding-top:0 ;
+}
+.title-heading h2 {
+    margin: 20px 0 20px 0;
+}
+.cbp_tmlabel {
+    padding: 0 !important;
+    background: inherit !important;
+    margin: 10px 0 20px 0 !important;
+    float: left !important;
+}
+.timeline-v2::before{
+    display: none;
+}
+.timeline-v2 > li .cbp_tmtime {
+    width: 100% !important;
+    display: block;
+    position: inherit !important;
+    padding-right: 80px;
+    float: left;
+}
+.contact-form-container {
+    padding: 60px 0px;
+}
+.tt-contact-icon-outer{
+    float: none;
+    margin: auto;
+    display: table;
+}
+.tt-contact-info {
+    padding-left: 0;
+    float: left;
+    width: 100%;
+}
+.simple-text p{
+    text-align: center;
+}
+.contact-form input[type="submit"] {
+    width: 100%;
+    height: 40px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 20px;
+    border: 1px solid #5c5edc;
+    color: #FFF;
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+}
+
